@@ -57,7 +57,7 @@ career-profile:
     title: Career Profile
     summary: |
       Welcome to my website! I'm Reto, a computational biologist from Basel, Switzerland. 
-      Here, I share my academic and professional career path with you. Let me know if something catches your interest!
+      I'm excited to share my academic and professional career path with you. Let me know if something catches your interest!
       
       My current research focuses on evolution of antibiotic resistance. 
       This is crucial to combat the increasing threat of drug-resistant bacterial infections, 
@@ -73,13 +73,14 @@ education:
         details: |
           Focus: Computational and Infection Biology
 
-          Master project
-          Duration: 18 months
+          Studying bacterial evolution of antibiotic tolerance and resistance using a modified continuous culture device (Master project, Duration 1.5 years).
+
           Supervisors: Prof. Dr. Richard Neher, Prof. Dr. Dirk Bumann
 
-          Studying bacterial evolution of antibiotic tolerance and resistance using a modified continuous culture device.
-            - Bullet point
-            - Bullet point
+            - DNA sequencing using the Oxford Nanopore MinION system
+            - Molecular cloning
+            - Python, R programming
+            - Data analysis: Mining genomic data for changed caused by antibiotic resistance (SNPs, Gaps, Insertions, Supplementary/Secondary mappings)
       - degree: BSc in Biology
         university: University of Basel
         time: Sept. 2019 - 2021
@@ -95,49 +96,54 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lab assistant at Biozentrum
+      - role: Lab assistant
         time: 2020 - 2023
         company: Biozentrum, University of Basel
         details: |
-          Placeholder
-            - Bullet point
-            - Bullet point
+          Shared between the labs of Prof. Dr Richard Neher and Prof. Dr. Peter Scheiffele
+            - Long read DNA sequencing using Oxford Nanopore technologies
+            - Teaching other labs to use the Nanopore system
+            - Image analysis of neuronal dendritic spines for a project about how different environments affect the ability to learn.
+            - Workflow using Fiji (ImageJ)
       - role: Lab assistant in the pandemics lab
         time: 2020 - 2021
         company: Viollier AG, Allschwil
         details: |
           Placeholder
-            - Bullet point
-            - Bullet point
+            - Preparation of COVID-19 tests for PCR analysis (Polymerase chain reaction)
+            - Preparation of reagents for RNA extraction and PCR analysis
+            - Performing RNA-extractions and PCR using Abbott machines
+            - Analysis and verification of test results
       - role: Operator secondary packaging
         time: 2017 - 2018
         company: Novartis Pharma AG
         details: |
           Placeholder
-            - Bullet point
-            - Bullet point
+            - Operating all labeling machines withing secondary packaging (sterile zone) and conducting in process controls
+            - Documentation according to good manufacturing process (GMP) regulations into the SAP PI system
+            - Describing processes and answering questions at internal as well as external audits
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Placeholder
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-            -
-        - name: Git learning
-          start: 2019
-          end: 2020
-          organization: Placeholder
-          credentialid: 
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Placeholder
+# certifications:
+#       title: Certifications
+#       list:
+#         - name: CV Builder
+#           start: 2020
+#           end: 2021
+#           organization: Placeholder
+#           credentialid: 
+#           credentialurl: 
+#           credentialname: 
+#           details: |
+#             -
+#         - name: Git learning
+#           start: 2019
+#           end: 2020
+#           organization: Placeholder
+#           credentialid: 
+#           credentialurl: www.github.com
+#           credentialname: Github
+#           details: |
+#             Placeholder
 
 projects:
     title: Projects
