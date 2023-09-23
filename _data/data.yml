@@ -17,7 +17,7 @@ sidebar:
     timezone: Europe/Zurich Timezone
     citizenship:
     website: reto-tschannen.com #do not add http://
-    linkedin: reto-tschannen-69583a162
+    linkedin: reto-tschannen
     xing: 
     github: RTS1997
     telegram: # add your nickname without '@' sign
@@ -67,14 +67,14 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Molecular Biology
+      - degree: MSc in Molecular Biology, Focus on Computational Biology
         university: University of Basel
         time: Sept. 2021 - Jan. 2023
         details: |
           Placeholder
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
+      - degree: BSc in Biology, Major in Molecular Biology
         university: Bristol University
         time: 2007 - 2011
         details: |
