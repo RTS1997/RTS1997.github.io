@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Reto Tschannen
@@ -17,7 +17,7 @@ sidebar:
     timezone: Europe/Zurich Timezone
     citizenship:
     website: reto-tschannen.com #do not add http://
-    linkedin: reto-tschannen
+    linkedin: reto-tschannen-69583a162
     xing: 
     github: RTS1997
     telegram: # add your nickname without '@' sign
@@ -67,25 +67,35 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Molecular Biology, Focus on Computational Biology
+      - degree: MSc in Molecular Biology
         university: University of Basel
         time: Sept. 2021 - Jan. 2023
         details: |
-          Placeholder
+          Focus: Computational and Infection Biology
+
+          Master project
+          Duration: 18 months
+          Supervisors: Prof. Dr. Richard Neher, Prof. Dr. Dirk Bumann
+
+          Studying bacterial evolution of antibiotic tolerance and resistance using a modified continuous culture device.
             - Bullet point
             - Bullet point
-      - degree: BSc in Biology, Major in Molecular Biology
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: BSc in Biology
+        university: University of Basel
+        time: Sept. 2019 - 2021
         details: |
-          Placeholder
-            - Bullet point
-            - Bullet point
+          Major in Molecular Biology
+
+          Focus areas:
+            - Microbiology
+            - Structural Biology
+            - Neurobiology
+            - Biochemistry
 
 experiences:
     title: Experiences
     info:
-      - role: Lab assistant @ Biozentrum
+      - role: Lab assistant at Biozentrum
         time: 2020 - 2023
         company: Biozentrum, University of Basel
         details: |
