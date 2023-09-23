@@ -109,7 +109,6 @@ experiences:
         time: 2020 - 2021
         company: Viollier AG, Allschwil
         details: |
-          Placeholder
             - Preparation of COVID-19 tests for PCR analysis (Polymerase chain reaction)
             - Preparation of reagents for RNA extraction and PCR analysis
             - Performing RNA-extractions and PCR using Abbott machines
@@ -118,7 +117,6 @@ experiences:
         time: 2017 - 2018
         company: Novartis Pharma AG
         details: |
-          Placeholder
             - Operating all labeling machines withing secondary packaging (sterile zone) and conducting in process controls
             - Documentation according to good manufacturing process (GMP) regulations into the SAP PI system
             - Describing processes and answering questions at internal as well as external audits
@@ -219,7 +217,7 @@ skills:
     toolset:
       - name: PCR, Molecular cloning, DNA sequencing etc.
         level: 98%
-        
+
       - name: Python
         level: 90%
 
