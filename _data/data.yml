@@ -211,7 +211,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: PCR, Molecular cloning, DNA sequencing etc.
+      - name: PCR, Molecular cloning, DNA sequencing
         level: 98%
 
       - name: Python
