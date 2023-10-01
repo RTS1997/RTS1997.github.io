@@ -79,7 +79,7 @@ education:
 
             - DNA sequencing using the Oxford Nanopore MinION system
             - Molecular cloning
-            - Python, R programming
+            - Python and R programming
             - Data analysis: Mining genomic data for changes caused by antibiotic resistance (SNPs, Gaps, Insertions, Supplementary/Secondary mappings)
       - degree: BSc in Biology
         university: University of Basel
@@ -98,7 +98,7 @@ experiences:
         details: |
           Shared between the labs of Prof. Dr. Richard Neher and Prof. Dr. Peter Scheiffele
             - Long read DNA sequencing using Oxford Nanopore technologies
-            - Teaching research groups to use the Nanopore system
+            - Teaching research groups how to use the Nanopore system
             - Image analysis of neuronal dendritic spines for a project about how different environments affect the ability to learn.
             - Workflow using Fiji (ImageJ)
       - role: Lab assistant in the pandemics lab
@@ -113,7 +113,7 @@ experiences:
         time: 2017 - 2018
         company: Novartis Pharma AG
         details: |
-            - Operating all labeling machines withing secondary packaging (sterile zone) and conducting in process controls
+            - Operating all labeling machines within secondary packaging (sterile zone) and conducting in process controls
             - Documentation according to good manufacturing process (GMP) regulations into the SAP PI system
             - Describing processes and answering questions at internal as well as external audits
 
