@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Reto Tschannen
-    tagline: Computational Biologist
+    tagline: PhD candidate ETH Zürich
     avatar: 2023_profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,13 +56,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Welcome to my website! I'm Reto, a computational biologist from Basel, Switzerland. 
-      I'm excited to share my academic and professional career path with you. Let me know if something catches your interest!
-      
-      My current research focuses on evolution of antibiotic resistance. 
-      This is crucial to combat the increasing threat of drug-resistant bacterial infections, 
-      which can lead to higher mortality rates and healthcare costs. 
-      I combine experimental and computational approaches to obtain new insights into this exciting and essential field.
+      Welcome to my website! Follow me on my journey to become a scientist. I'm currently doing a PhD in quantitative developmental biology in the research group
+      of Prof. Dr. Barbara Treutlein at ETH Zürich (D-BSSE) and at Roche (IHB). I'm investigating how the early brain develops, how brain regions form, and how the brain extracellular matrix
+      and physical forces influence these processes. Broadening our understanding in these areas will help us to understand how neurodevelopmental disorders develop
+      and how we can treat them. For any inquiries, please reach out to me.
+
 
 education:
     title: Education
